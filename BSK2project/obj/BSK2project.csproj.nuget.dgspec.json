@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krystian\\source\\repos\\BSK2project\\BSK2project\\BSK2project.csproj": {}
+    "C:\\Users\\Julia\\source\\repos\\BSK2Project\\BSK2project\\BSK2project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krystian\\source\\repos\\BSK2project\\BSK2project\\BSK2project.csproj": {
+    "C:\\Users\\Julia\\source\\repos\\BSK2Project\\BSK2project\\BSK2project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krystian\\source\\repos\\BSK2project\\BSK2project\\BSK2project.csproj",
+        "projectUniqueName": "C:\\Users\\Julia\\source\\repos\\BSK2Project\\BSK2project\\BSK2project.csproj",
         "projectName": "BSK2project",
-        "projectPath": "C:\\Users\\Krystian\\source\\repos\\BSK2project\\BSK2project\\BSK2project.csproj",
-        "packagesPath": "C:\\Users\\Krystian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krystian\\source\\repos\\BSK2project\\BSK2project\\obj\\",
+        "projectPath": "C:\\Users\\Julia\\source\\repos\\BSK2Project\\BSK2project\\BSK2project.csproj",
+        "packagesPath": "C:\\Users\\Julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julia\\source\\repos\\BSK2Project\\BSK2project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Krystian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

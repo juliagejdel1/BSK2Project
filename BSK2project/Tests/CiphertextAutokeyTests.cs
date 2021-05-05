@@ -23,8 +23,8 @@ namespace BSK2project.Tests
         [TestCase("1100111100110110", "10101110", "11100001", "1011110000001111")]
         public void EncodeCiphertextAutokey(string input, string startState, string taps, string output)
         {
-           // var result = service.Encrypt(input, startState, taps);
-           // Assert.AreEqual(output, result);
+          var result = service.Encode(input, startState, taps);
+            Assert.AreEqual(output, result);
         }
 
         [TestCase("00110011", "0011", "1001", "11101001")]
@@ -34,8 +34,8 @@ namespace BSK2project.Tests
         [TestCase("1011110000001111", "10101110", "11100001", "1100111100110110")]
         public void DecodeCiphertextAutokey(string input, string startState, string taps, string output)
         {
-           // var result = service.Decrypt(input, startState, taps);
-          //  Assert.AreEqual(output, result);
+         var result = service.Decode(input, startState, taps);
+           Assert.AreEqual(output, result);
         }
     }
 }
